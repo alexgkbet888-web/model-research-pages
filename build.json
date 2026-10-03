@@ -1,0 +1,15 @@
+{
+  "version": "1.9.0-pages",
+  "builtAt": "2026-10-03T11:24:34.561Z",
+  "engineSourceHashes": {
+    "engine.mjs": "4adc5d73fb39dbc99b137ee3729747d5a8b4832827f27b5039408d89be677b6d",
+    "fine-window.mjs": "1bb183eb788fb50990843a1bd501b4b95054ddf01ef334974a19e88df85ca89d",
+    "models.mjs": "9b6dc70f5dabf50131e86203a45c31c31368877aa06ac16a3c36b0eb7ee5cb71",
+    "backtest.mjs": "a1ac1c6d07095901b6bf98d9a4715d3779c4b6e498cb3ec660f6f868b9485eb0",
+    "batch.mjs": "5963c09779182cf186b5529cd81c01646a99ab58f13ce40674e0899464580dd4",
+    "portfolio.mjs": "c464eca90c0d4fb2f265717cd2fa17c74e8da6fb5eac7cbf4777a517b6c76267",
+    "public/model-sizing.js": "8b06c70f1987eadc2bb0c8db58a0ebb8e2bfd4929b87dc7ac516be9848a79bfa"
+  },
+  "source": "Binance official archive + REST",
+  "storage": "IndexedDB local to each browser"
+}
